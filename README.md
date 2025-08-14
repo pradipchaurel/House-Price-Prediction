@@ -1,60 +1,45 @@
-🏡 House Price Prediction
+# 🏡 House Price Prediction
 
 This project predicts house prices based on property and location features using three different machine learning algorithms:
 
-Support Vector Machine (SVM)
+- Support Vector Machine (SVM)
 
-Random Forest
+- Random Forest
 
-Linear Regression
+- Linear Regression
 
 The goal is to compare model performance and identify the best approach for accurate house price prediction.
+---
 
-📂 Dataset
+# 📂 Dataset
 
 The dataset contains various features that influence house prices, such as:
 
-Lot size
+- Lot size
 
-Number of bedrooms and bathrooms
+- Number of bedrooms and bathrooms
 
-Square footage
+- Square footage
 
-Location details
+- Location details
 
-Year built
+- Year built
+  ---
 
-(Replace with dataset source link if public)
+# 🚀 Features
 
-🚀 Features
+- Data preprocessing:
 
-Data preprocessing:
+- Handling missing values
 
-Handling missing values
+- Encoding categorical variables
 
-Encoding categorical variables
+- Feature scaling
 
-Feature scaling
+- Model training using SVM, Random Forest, and Linear Regression
+  ---
 
-Model training using SVM, Random Forest, and Linear Regression
-
-Performance evaluation using:
-
-R² Score
-
-Mean Absolute Error (MAE)
-
-Root Mean Squared Error (RMSE)
-
-Visualization of:
-
-Feature importance
-
-Model performance
-
-Predictions for unseen data
-
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Python
 
@@ -68,10 +53,8 @@ Jupyter Notebook
 
 
 
-📌 Future Improvements
+# 📌 Future Improvements
 
-Experiment with more advanced algorithms (XGBoost, LightGBM, Neural Networks)
+- Hyperparameter tuning for better accuracy
 
-Hyperparameter tuning for better accuracy
-
-Deploy model via Flask or Streamlit for interactive web usage
+- Deploy model via Flask or Streamlit for interactive web usage
