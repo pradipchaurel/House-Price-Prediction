@@ -9,7 +9,7 @@ This project predicts house prices based on property and location features using
 - Linear Regression
 
 The goal is to compare model performance and identify the best approach for accurate house price prediction.
----
+
 
 # 📂 Dataset
 
@@ -17,14 +17,14 @@ The dataset contains various features that influence house prices, such as:
 
 - Lot size
 
-- Number of bedrooms and bathrooms
+- Number of bedrooms 
 
 - Square footage
 
 - Location details
 
 - Year built
-  ---
+  
 
 # 🚀 Features
 
@@ -37,19 +37,19 @@ The dataset contains various features that influence house prices, such as:
 - Feature scaling
 
 - Model training using SVM, Random Forest, and Linear Regression
-  ---
+  
 
 # 🛠 Tech Stack
 
-Python
+- Python
 
-Pandas, NumPy
+- Pandas, NumPy
 
-Scikit-learn
+- Scikit-learn
 
-Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 
 
